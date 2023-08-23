@@ -1,0 +1,56 @@
+body {
+    background-color: gray;
+}
+.form {
+    margin: 40px 450px;
+    padding: 20px 20px;
+    height: 70vh;
+    width: 42%;
+    background-color: rgb(251, 255, 255);
+    border-radius: 5px;
+    box-shadow: #332828;
+    justify-content: center;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.sec1 {
+    float: left;
+    margin-right: 30%;
+    margin-left: 7%;
+}
+
+.sec3 {
+    float: left;
+    margin-right: 30%;
+    margin-left: 7%;
+}
+
+.add {
+    margin-left: 7%;
+}
+
+.sec5 {
+    float: left;
+    margin-right: 30%;
+    margin-left: 7%;
+}
+
+.sec7 {
+    float: left;
+    margin-right: 38%;
+    margin-left: 7%;
+}
+.button{
+   background-color: red;
+    align-items: end;
+    color:white;
+    margin-left: 75%;
+}
+select{
+    border-width:1px;
+    border-color: gray;
+    border-style: solid;
+}
